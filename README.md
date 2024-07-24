@@ -36,11 +36,10 @@ create .env file in root project
 PRIVATE_KEY="your private key"
 ```
 
-### 4. Create Smart Contract
+### 4. Update Smart Contract (Skipp if you won't modify NFT name)
 
 - Open contracts folder
-- Create Nft.sol file
-- Copy this code and paste there
+- Open Nft.sol file
 - Feel free to modify token name and token symbol
 
 ```
